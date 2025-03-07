@@ -11,4 +11,6 @@ Analyze the effectiveness of marketing campaigns by examining key metrics such a
 
 ## Dashboard
 
-![Dashboard](/Marketing_Campaign_Analysis.pdf)
+![Dashboard](/public/Marketing_Campaign_Analysis_page-0001.jpg)
+![Dashboard](/public/Marketing_Campaign_Analysis_page-0002.jpg)
+![Dashboard](/public/Marketing_Campaign_Analysis_page-0003.jpg)
