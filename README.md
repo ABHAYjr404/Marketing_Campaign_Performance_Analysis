@@ -9,3 +9,6 @@ Analyze the effectiveness of marketing campaigns by examining key metrics such a
 - Analyzed marketing campaign data to assess performance.
 - Created visualizations to represent campaign response rates and trends.
 
+## Dashboard
+
+![Dashboard](/Marketing_Campaign_Analysis.pdf)
