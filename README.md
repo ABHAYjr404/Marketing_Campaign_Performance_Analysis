@@ -2,12 +2,19 @@
 
 ## Project Overview
 
-Analyze the effectiveness of marketing campaigns by examining key metrics such as conversion rates, ROI (Return on Investment), and customer acquisition costs. This project aims to provide insights and visualizations that showcase the performance of different marketing campaigns and offer suggestions for optimization.
+A marketing campaign analysis using Python (EDA, customer segmentation, campaign impact) followed by a Power BI retail shopping dashboard visualizing customer purchases, sales trends, and revenue insights. Ideal for data-driven marketing and business intelligence.
 
-## Features
+Key Features:
 
-- Analyzed marketing campaign data to assess performance.
-- Created visualizations to represent campaign response rates and trends.
+📈 Marketing Campaign Analysis (Python) – Customer segmentation, campaign effectiveness, and revenue insights
+
+🛍️ Retail Shopping Dashboard (Power BI) – Sales trends, customer behavior, and spending patterns
+
+💰 Revenue & ROI Analysis – Campaign acceptance rates, purchase behaviors, and spending trends
+
+📊 Business Optimization – Data-driven insights for targeted marketing and retail growth
+
+This project helps businesses understand customer behavior, improve marketing ROI, and optimize sales strategies. 
 
 ## Dashboard
 
